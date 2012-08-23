@@ -1,0 +1,2 @@
+awful.util.spawn_with_shell("COMMAND1")
+awful.util.spawn_with_shell("COMMAND2")
